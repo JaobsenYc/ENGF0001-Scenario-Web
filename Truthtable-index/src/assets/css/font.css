@@ -1,0 +1,6 @@
+font-face {
+font-family: 'poireone';  //重命名字体名
+src: url('PoiretOne-Regular.ttf');  //引入字体
+font-weight: normal;
+font-style: normal;
+}
